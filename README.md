@@ -1,10 +1,11 @@
-this is a progect
-press e to interast
-press f to heal
-press r to relode
-press Esc to puase
-press w to move forwerd
-press d to move right
-press a to move left
-press s to move backwerd
-look with your mouse
+This is a project
+Press E to interact
+Press F to heal
+Press R to reload
+Press Esc to pause
+Press W to move forward
+Press D to move right
+Press A to move left
+Press S to move backward
+Look with your mouse
+To shoot, click the left mouse button
